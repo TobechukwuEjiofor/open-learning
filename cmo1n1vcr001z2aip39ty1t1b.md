@@ -71,9 +71,9 @@ I took a short break to celebrate, but when I returned, I couldn't get back in. 
 The next day, I found the culprit: My Azure subscription had expired. Because the subscription was inactive, the VM had been deallocated. It was a simple fix, but a huge lesson in monitoring account health. I’m glad I didn’t give up!
 
 **Skills Learned & Takeaways**  
-**Cloud Resource Provisioning:** Navigating the Azure Portal to deploy a Linux-based Virtual Machine.  
-**Infrastructure Components:** Understanding the roles of VNets, Subnets, and NICs.  
-**Network Security:** Configuring Inbound Port Rules (Port 22 & 80) to balance management access with public web traffic.  
-**SSH Protocol:** Using private keys for secure remote authentication via PowerShell.  
-**Web Server Administration:** Installing and verifying an Apache2 server on a remote Linux environment.  
-• Troubleshooting: Learning that infrastructure reliability starts with active subscription management.
+\- **Cloud Resource Provisioning:** Navigating the Azure Portal to deploy a Linux-based Virtual Machine.  
+\- **Infrastructure Components:** Understanding the roles of VNets, Subnets, and NICs.  
+\- **Network Security:** Configuring Inbound Port Rules (Port 22 & 80) to balance management access with public web traffic.  
+\- **SSH Protocol:** Using private keys for secure remote authentication via PowerShell.  
+\- **Web Server Administration:** Installing and verifying an Apache2 server on a remote Linux environment.  
+\- **Troubleshooting:** Learning that infrastructure reliability starts with active subscription management.
